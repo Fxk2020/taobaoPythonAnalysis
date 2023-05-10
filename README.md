@@ -1,0 +1,2 @@
+# taobaoPythonAnalysis
+对爬取的淘宝数据进行清洗并进行可视化分析
